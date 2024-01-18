@@ -24,9 +24,7 @@ Türkçe Talimatları [burada](./README-Turkish.md) bulabilirsiniz.
 
 دستور العمل های [فارسی](./README-Persian.md)
 
-한국어로 된 설명은 [여기](./README-Korean.md)를 참고하세요.
 
-Български README [тук](README-Bulgarian.md)
 
 ## Demo
 
